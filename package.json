@@ -1,0 +1,15 @@
+{
+  "name": "assets",
+  "version": "1.0.0",
+  "description": "create algo asset",
+  "main": "asset.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kartik shah",
+  "license": "ISC",
+  "dependencies": {
+    "algosdk": "^1.22.0",
+    "open": "^8.4.0"
+  }
+}
